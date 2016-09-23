@@ -1,5 +1,4 @@
 body{ 
-    
     background-attachment:fixed;
     background-repeat:no-repeat;
     background-position:;
@@ -39,7 +38,7 @@ color:black;
 
 font-size: 15px;
 text-align: center;
-}/*tamaño y color para texto h3*/
+}/*tamaÃ±o y color para texto h3*/
 
 h4{
 font-family: "Indie Flower", cursive;
@@ -47,20 +46,20 @@ color:black;
 margin-left: 10px;
 font-size: 20px;
 text-align: center;
-}/*tamaño y color para texto h4*/
+}/*tamaÃ±o y color para texto h4*/
 
 header{
   width: 1000px;
   height: 210px;
   background: rgba{255, 255, 255, 0.5};
-}/* tamaños y color para el header o cabecera*/
+}/* tamaÃ±os y color para el header o cabecera*/
 
 nav {
   width: 1000px;
   height: 50px;
   background: orange;
 border-radius: 10px;
-} /* tamaño y color para el contenedor nav*/
+} /* tamaÃ±o y color para el contenedor nav*/
 
 ul{
 margin: auto;
@@ -76,7 +75,7 @@ margin: 3px;
 border-radius: 10px;
 box-shadow: 0 0 10px white inset;
 width: 157px;
-}/* estilo, tamaño y color para los botones del menu*/
+}/* estilo, tamaÃ±o y color para los botones del menu*/
 
 section{
      width: 700px;
@@ -86,7 +85,7 @@ section{
      margin-top: 20px;
      border-radius: 7px;
 
-}/* alineacion, tamaño y color de el section */
+}/* alineacion, tamaÃ±o y color de el section */
 
 aside{
      width: 280px;
@@ -97,7 +96,7 @@ aside{
      margin-top: 20px;
      border-radius: 7px;
 
-}/* alineacion, tamaño y color de el aside */
+}/* alineacion, tamaÃ±o y color de el aside */
 
 footer{
      width: 1000px;
@@ -108,7 +107,7 @@ footer{
      border-radius: 7px;
      opacity: 0.9;
      margin-bottom: 30px;
-}/* alineacion, tamaño y color de el footer */
+}/* alineacion, tamaÃ±o y color de el footer */
 
 p{
      font-size: 15px;
@@ -116,7 +115,7 @@ p{
      line-height: 20px;
      padding: 30px;
      text-align: justify;
-}/* alineacion, tamaño y color de el parrafo */
+}/* alineacion, tamaÃ±o y color de el parrafo */
 
 
 .ancho_menu_home{width: 900px;}
