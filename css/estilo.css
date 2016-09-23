@@ -1,0 +1,128 @@
+body{ 
+    
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-position:;
+    background-size:175px 190px;
+    background-color: mediumblue;
+}/*codigo para poner propiedades a la imagen de fondo*/
+
+#contenidos{
+      width: 1000px;
+      height: auto;
+      margin: auto;
+      position: relative;
+      
+}
+
+
+
+h1{
+font-family: "Shadows Into Light", cursive;
+color:white;
+margin-left: 10px;
+font-size: 40px;
+text-align: center;
+}/*propiedades para texto h1*/
+
+h2{
+font-family: "Indie Flower", cursive;
+color:white;
+margin-left: 10px;
+font-size: 20px;
+text-align: left;
+}/*propiedades para texto h2*/
+
+h3{
+font-family: "Indie Flower", cursive;
+color:black;
+
+font-size: 15px;
+text-align: center;
+}/*tamaño y color para texto h3*/
+
+h4{
+font-family: "Indie Flower", cursive;
+color:black;
+margin-left: 10px;
+font-size: 20px;
+text-align: center;
+}/*tamaño y color para texto h4*/
+
+header{
+  width: 1000px;
+  height: 210px;
+  background: rgba{255, 255, 255, 0.5};
+}/* tamaños y color para el header o cabecera*/
+
+nav {
+  width: 1000px;
+  height: 50px;
+  background: orange;
+border-radius: 10px;
+} /* tamaño y color para el contenedor nav*/
+
+ul{
+margin: auto;
+padding-top: 4px;
+}/*posicion para el menu*/
+
+li{
+float: left;
+list-style-type: none;
+padding: 10px;
+background: khaki;
+margin: 3px;
+border-radius: 10px;
+box-shadow: 0 0 10px white inset;
+width: 157px;
+}/* estilo, tamaño y color para los botones del menu*/
+
+section{
+     width: 700px;
+     background: lightgray;
+     height: 600px;
+     float: left;
+     margin-top: 20px;
+     border-radius: 7px;
+
+}/* alineacion, tamaño y color de el section */
+
+aside{
+     width: 280px;
+     background: lightgray;
+     height: 600px;
+     float: left;
+     margin-left: 20px;
+     margin-top: 20px;
+     border-radius: 7px;
+
+}/* alineacion, tamaño y color de el aside */
+
+footer{
+     width: 1000px;
+     height: 40px;
+     background: lightgray;
+     float: left;
+     margin-top: 20px;
+     border-radius: 7px;
+     opacity: 0.9;
+     margin-bottom: 30px;
+}/* alineacion, tamaño y color de el footer */
+
+p{
+     font-size: 15px;
+     font-weight: bolder;
+     line-height: 20px;
+     padding: 30px;
+     text-align: justify;
+}/* alineacion, tamaño y color de el parrafo */
+
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+
+.menu:link{color: black; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: red; text-decoration: none; text-shadow: 0 0 10px white;}
+.menu:active{color: white; text-decoration: none;}/* decoracion de los contenidos menu*/
